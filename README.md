@@ -77,8 +77,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Yoganataa/PPHwatUAS" title="PPHwatUAS"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=PPHwatUAS&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Yoganataa/AutoLeecher" title="AutoLeecher"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=AutoLeecher&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Yoganataa/FandomBlackpink" title="FandomBlackpink"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=FandomBlackpink&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Yoganataa/Worldcup22" title="WorldCup22"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=WorldCup22&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <h4 align="center">
