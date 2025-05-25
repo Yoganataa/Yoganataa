@@ -14,10 +14,6 @@
   Hi, I'm Nata, A passionate student from Indonesia
   <br>
   <br>
-  🔬 I am currently studying to get a bachelor's degree in the Department of Informatics, Universitas Islam Balitar
-  <br>
-  🎓 I graduated from Udanawu State Vocational High School 1
-  <br>
   💻 I love writing code and learn anythings about it
   <br>
   📚 I'm currently learning how to build a telegram bot in Python
