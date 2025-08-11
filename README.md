@@ -1,104 +1,123 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yoganataa.yoganataa">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nata...;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+# 👋 Hi, I'm Nata
 
-<h5 align="center">
-  <code><a href="https://www.instagram.com/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Nata, A passionate student from Indonesia
-  <br>
-  <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I'm currently learning how to build a telegram bot in Python
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/yoganataa/yoganataa/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: aveycreator@gmail.com">aveycreator@gmail.com</a>
-</p>
-
-<hr>
-<h2 align="center">🔥 Languages & Tools 🔥</h2>
-<br>
-<p align="center">
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-</p>
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=yoganataa&theme=react&border=61dafb&hide_border=true" alt="yoganataa" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=yoganataa&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoganataa&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yoganataa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Yoganataa/aveynt.github.io" title="aveynt.github.io"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=aveynt.github.io&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Yoganataa/drawio" title="Drawio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=drawio&theme=react&border_color=61dafb&border_radius=10"></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Frontend+Mobile+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Yoganataa/tg-index" title="tg-index"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=tg-index&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Yoganataa/StockStorage" title="StockStorage"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=StockStorage&theme=react&border_color=61dafb&border_radius=10"></a>
+
+## 🚀 About Me
+
+I'm a passionate **Full Stack Web Developer** and **Frontend Mobile Developer** with a love for creating seamless digital experiences. I enjoy turning complex problems into simple, beautiful, and intuitive solutions.
+
+- 🔭 Currently working on exciting web and mobile projects
+- 🌱 Always learning and staying updated with the latest technologies
+- 💡 Open to collaborating on innovative projects
+- 📫 Let's connect and build something amazing together!
+
+## 💻 Tech Stack
+
+### Frontend Web
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black)
+
+### Database & Cloud
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=black)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoganataa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Yoganataa/FandomBlackpink" title="FandomBlackpink"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=FandomBlackpink&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Yoganataa/Worldcup22" title="WorldCup22"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=yoganataa&repo=WorldCup22&theme=react&border_color=61dafb&border_radius=10"></a>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoganataa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-<br/><br/><br/><br/><br/><br/>
-<h4 align="center">
-  <a href="https://github.com/yoganataa?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoganataa&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yoganataa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+## 🌟 Featured Projects
+
+### 🌐 Web Applications
+- **[ShiroTales](https://github.com/Yoganataa/shirotales)** - Light Novel Reader
+- **[ShiroAPI](https://github.com/Yoganataa/shiroAPI)** - Web API Provider for ShiroTales
+
+### 📱 Mobile Applications
+- **[CasterLibrary](https://github.com/Yoganataa/caster)** - Android Security Library - Layered Detection
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoganataa&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+## 🎯 What I'm Currently Working On
+
+- 🔭 Building scalable web applications with modern frameworks
+- 📱 Developing cross-platform mobile applications
+- 🌱 Learning new technologies and best practices
+- 👯 Looking to collaborate on open source projects
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=white)](https://yoganata.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoganata.id@gmail.com)
+
+</div>
+
+---
 
 
-<!--
-**yoganataa/yoganataa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
+</div>
