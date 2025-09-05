@@ -5,7 +5,7 @@
 - 🖥 learning Kotlin, Svelte, React!
 - 💜 Playing Game
 
-## Nerd Stats
+## ✨ Nerd Stats
 <a>
   
   ![](https://github.com/Yoganataa/Yoganataa/blob/main/generated/overview.svg#gh-dark-mode-only)
@@ -22,3 +22,4 @@
 ## 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![WSL2](https://img.shields.io/badge/DietPi%209.16.3-A81D33?style=flat-square&logo=Debian&logoColor=FFFFFF)
+
