@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 ## 📖[About Me](https://yoganata.site)
-- 🎂 22 y.o
+- 🎂 23 y.o
 - 🖥 learning Kotlin, Svelte, React!
 - 💜 Playing Game
 
@@ -17,9 +17,13 @@
 ![](https://count.getloli.com/get/@Yoganataa?theme=gelbooru)
 
 ## 📝 Tools
-![Android Studio](https://img.shields.io/badge/Android%20Studio-222222?style=flat-square&logo=Android+Studio&logoColor=3DDC84) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=FFFFFF) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=FFFFFF) ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=flat-square&logo=Laragon&logoColor=FFFFFF) 
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 💻 Environment
-![Windows](https://img.shields.io/badge/Windows%2011-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
-![WSL2](https://img.shields.io/badge/DietPi%209.16.3-A81D33?style=flat-square&logo=Debian&logoColor=FFFFFF)
+![Fedora](https://img.shields.io/badge/Fedora_43-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Debian](https://img.shields.io/badge/DietPi_9.16.3-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
