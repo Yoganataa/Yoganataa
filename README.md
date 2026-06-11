@@ -12,9 +12,8 @@ I'm a **Full Stack Web Developer** and **Mobile Developer** based in Indonesia. 
 
 - 🎂 **Age:** 23 years old
 - 🔭 **Currently working on:** Exciting web and mobile projects (building scalable apps).
-- 🌱 **Currently learning:** Kotlin, Svelte, React
-- 🎮 **Hobbies:** Playing Games
-- 🌐 **Portfolio:** [yoganata.site](https://yoganata.site)
+- 🌱 **Currently learning:** Python, Nextjs
+- 🎮 **Hobbies:** Yapping, Reading Novels
 
 ---
 
