@@ -57,8 +57,8 @@ I'm a **Full Stack Web Developer** and **Mobile Developer** based in Indonesia. 
 ## ✨ Nerd Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yoganataa/Yoganataa/main/generated/overview.svg#gh-dark-mode-only" alt="Overview Stats" />
-  <img src="https://raw.githubusercontent.com/Yoganataa/Yoganataa/main/generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
+  <img src="generated/overview.svg#gh-dark-mode-only" alt="Overview Stats" />
+  <img src="generated/languages.svg#gh-dark-mode-only" alt="Top Languages" />
 </div>
 
 <br/>

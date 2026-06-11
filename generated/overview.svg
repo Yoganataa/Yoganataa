@@ -8,14 +8,14 @@
     <text x="25" y="35" class="header">Yoganataa's GitHub Stats</text>
     
     <text x="25" y="70" class="stat">⭐ Total Stars:</text>
-    <text x="375" y="70" class="stat" text-anchor="end">0</text>
+    <text x="375" y="70" class="stat" text-anchor="end">6</text>
     
     <text x="25" y="100" class="stat">🔄 Total Forks:</text>
-    <text x="375" y="100" class="stat" text-anchor="end">0</text>
+    <text x="375" y="100" class="stat" text-anchor="end">2</text>
     
     <text x="25" y="130" class="stat">📦 Repositories:</text>
-    <text x="375" y="130" class="stat" text-anchor="end">0</text>
+    <text x="375" y="130" class="stat" text-anchor="end">25</text>
     
     <text x="25" y="160" class="stat">👥 Followers:</text>
-    <text x="375" y="160" class="stat" text-anchor="end">0</text>
+    <text x="375" y="160" class="stat" text-anchor="end">12</text>
 </svg>

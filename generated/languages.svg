@@ -9,4 +9,34 @@
     </style>
     <rect x="0.5" y="0.5" width="399" height="199" class="bg"/>
     <text x="25" y="35" class="header">Top Languages</text>
-    </svg>
+    
+        <text x="25" y="65" class="lang-name">Blade</text>
+        <text x="375" y="65" class="lang-pct" text-anchor="end">34.2%</text>
+        
+        <rect x="25" y="75" width="350" height="6" class="progress-bg"/>
+        <rect x="25" y="75" width="119.56633319390433" height="6" class="progress-bar"/>
+        
+        <text x="25" y="91" class="lang-name">TypeScript</text>
+        <text x="375" y="91" class="lang-pct" text-anchor="end">18.0%</text>
+        
+        <rect x="25" y="101" width="350" height="6" class="progress-bg"/>
+        <rect x="25" y="101" width="62.85395329920063" height="6" class="progress-bar"/>
+        
+        <text x="25" y="117" class="lang-name">PHP</text>
+        <text x="375" y="117" class="lang-pct" text-anchor="end">12.4%</text>
+        
+        <rect x="25" y="127" width="350" height="6" class="progress-bg"/>
+        <rect x="25" y="127" width="43.565960571427524" height="6" class="progress-bar"/>
+        
+        <text x="25" y="143" class="lang-name">Kotlin</text>
+        <text x="375" y="143" class="lang-pct" text-anchor="end">11.2%</text>
+        
+        <rect x="25" y="153" width="350" height="6" class="progress-bg"/>
+        <rect x="25" y="153" width="39.26771159263839" height="6" class="progress-bar"/>
+        
+        <text x="25" y="169" class="lang-name">Dart</text>
+        <text x="375" y="169" class="lang-pct" text-anchor="end">6.9%</text>
+        
+        <rect x="25" y="179" width="350" height="6" class="progress-bg"/>
+        <rect x="25" y="179" width="24.19102259906613" height="6" class="progress-bar"/>
+        </svg>
