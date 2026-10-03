@@ -47,8 +47,8 @@ jobs:
     # Commit all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "yoganataa"
-        git config --global user.email "veyoganata@gmail.com"
+        git config --global user.name "githubbot"
+        git config --global user.email "taskupdater@yoganata.id"
         git add .
         # Force the build to succeed, even if no files were changed
         git commit -m 'Update generated files' || true
